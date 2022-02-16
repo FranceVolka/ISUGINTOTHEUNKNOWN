@@ -1,0 +1,2108 @@
+fileFormatVersion: 2
+guid: 6e852a60d1d3f0345805bfa4305728f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3063213887628864881
+    second: Tikbalang_0
+  - first:
+      213: 3808413527676573090
+    second: Tikbalang_1
+  - first:
+      213: -3552176839482747484
+    second: Tikbalang_2
+  - first:
+      213: 645749445453800353
+    second: Tikbalang_3
+  - first:
+      213: 5549274009330798186
+    second: Tikbalang_4
+  - first:
+      213: -6541459083043452409
+    second: Tikbalang_5
+  - first:
+      213: -5493793815780163209
+    second: Tikbalang_6
+  - first:
+      213: 4667353673632753232
+    second: Tikbalang_7
+  - first:
+      213: 8904968784183483466
+    second: Tikbalang_8
+  - first:
+      213: 5416380320915304801
+    second: Tikbalang_9
+  - first:
+      213: 2325399752076729850
+    second: Tikbalang_10
+  - first:
+      213: 7905776328225309433
+    second: Tikbalang_11
+  - first:
+      213: -7062867401876754636
+    second: Tikbalang_12
+  - first:
+      213: -4338883132129354394
+    second: Tikbalang_13
+  - first:
+      213: 3196828172501547337
+    second: Tikbalang_14
+  - first:
+      213: -5147353039538722642
+    second: Tikbalang_15
+  - first:
+      213: 3498144590214323494
+    second: Tikbalang_16
+  - first:
+      213: 3918088651573325060
+    second: Tikbalang_17
+  - first:
+      213: -5209115795664653732
+    second: Tikbalang_18
+  - first:
+      213: 5341638628954263019
+    second: Tikbalang_19
+  - first:
+      213: -3290515704944524001
+    second: Tikbalang_20
+  - first:
+      213: -2420773092495458789
+    second: Tikbalang_21
+  - first:
+      213: 7071556678953610696
+    second: Tikbalang_22
+  - first:
+      213: -7138585936863833615
+    second: Tikbalang_23
+  - first:
+      213: 277123955259827772
+    second: Tikbalang_24
+  - first:
+      213: 7162514180392033624
+    second: Tikbalang_25
+  - first:
+      213: 2363371741265937014
+    second: Tikbalang_26
+  - first:
+      213: 2482081985757741575
+    second: Tikbalang_27
+  - first:
+      213: -1713304843710967128
+    second: Tikbalang_28
+  - first:
+      213: -8123890128094863968
+    second: Tikbalang_29
+  - first:
+      213: -6239394788441895202
+    second: Tikbalang_30
+  - first:
+      213: 825798452266786089
+    second: Tikbalang_31
+  - first:
+      213: -3557834654282860660
+    second: Tikbalang_32
+  - first:
+      213: -6797057678859891855
+    second: Tikbalang_33
+  - first:
+      213: 5466299380941151754
+    second: Tikbalang_34
+  - first:
+      213: 7094994903091309120
+    second: Tikbalang_35
+  - first:
+      213: 4404617984592101231
+    second: Tikbalang_36
+  - first:
+      213: -1730650423177458361
+    second: Tikbalang_37
+  - first:
+      213: 328431692466952140
+    second: Tikbalang_38
+  - first:
+      213: -1750181794976191382
+    second: Tikbalang_39
+  - first:
+      213: 6211865427321979649
+    second: Tikbalang_40
+  - first:
+      213: 2849606280919363425
+    second: Tikbalang_41
+  - first:
+      213: 6525107754444054631
+    second: Tikbalang_42
+  - first:
+      213: 7391686941924360730
+    second: Tikbalang_43
+  - first:
+      213: -4296555410260417097
+    second: Tikbalang_44
+  - first:
+      213: -5807064753189192345
+    second: Tikbalang_45
+  - first:
+      213: -6313120315139161398
+    second: Tikbalang_46
+  - first:
+      213: 9194779897294719561
+    second: Tikbalang_47
+  - first:
+      213: -5427196091470608493
+    second: Tikbalang_48
+  - first:
+      213: 6403414853238146903
+    second: Tikbalang_49
+  - first:
+      213: -6104469788679965426
+    second: Tikbalang_50
+  - first:
+      213: -7145999729149337941
+    second: Tikbalang_51
+  - first:
+      213: -6072296339944361378
+    second: Tikbalang_52
+  - first:
+      213: -2768191771951189547
+    second: Tikbalang_53
+  - first:
+      213: 4916040253034674217
+    second: Tikbalang_54
+  - first:
+      213: 1073259771405207731
+    second: Tikbalang_55
+  - first:
+      213: -5644056283770929388
+    second: Tikbalang_56
+  - first:
+      213: 1929328870514056174
+    second: Tikbalang_57
+  - first:
+      213: -3097812834563891829
+    second: Tikbalang_58
+  - first:
+      213: 1187658109808904521
+    second: Tikbalang_59
+  - first:
+      213: -2004241695561933449
+    second: Tikbalang_60
+  - first:
+      213: 5207508171975267292
+    second: Tikbalang_61
+  - first:
+      213: 630961543734741448
+    second: Tikbalang_62
+  - first:
+      213: 2499916157614938812
+    second: Tikbalang_63
+  - first:
+      213: -8828837245826365532
+    second: Tikbalang_64
+  - first:
+      213: -2526882665162369228
+    second: Tikbalang_65
+  - first:
+      213: -3050894203662316400
+    second: Tikbalang_66
+  - first:
+      213: -8532770384940249514
+    second: Tikbalang_67
+  - first:
+      213: -3120832708270471820
+    second: Tikbalang_68
+  - first:
+      213: -2605287615359361414
+    second: Tikbalang_69
+  - first:
+      213: -103465895388133326
+    second: Tikbalang_70
+  - first:
+      213: 7636831462451884183
+    second: Tikbalang_71
+  - first:
+      213: 7488387026899526760
+    second: Tikbalang_72
+  - first:
+      213: 3620444513613770276
+    second: Tikbalang_73
+  - first:
+      213: 1663012375937439588
+    second: Tikbalang_74
+  - first:
+      213: 1891641219398450060
+    second: Tikbalang_75
+  - first:
+      213: -390146715843119797
+    second: Tikbalang_76
+  - first:
+      213: 6509729779520845230
+    second: Tikbalang_77
+  - first:
+      213: -6235779051971268496
+    second: Tikbalang_78
+  - first:
+      213: 6604718732956568241
+    second: Tikbalang_79
+  - first:
+      213: -161969815747781320
+    second: Tikbalang_80
+  - first:
+      213: 3426516208099704359
+    second: Tikbalang_81
+  - first:
+      213: -1221059516682849246
+    second: Tikbalang_82
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tikbalang_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1931
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d692b1dc8b28a20800000000000000
+      internalID: 3063213887628864881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1930
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a554f2fce33ad430800000000000000
+      internalID: 3808413527676573090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1930
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5d2471cf124bec0800000000000000
+      internalID: -3552176839482747484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_3
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1930
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3ed2603b926f800800000000000000
+      internalID: 645749445453800353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1930
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e48776f4bf20d40800000000000000
+      internalID: 5549274009330798186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_5
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1931
+        width: 73
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a41724f911835a0800000000000000
+      internalID: -6541459083043452409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_6
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1931
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7718f25c1af12c3b0800000000000000
+      internalID: -5493793815780163209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_7
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1921
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056aefdff65c5c040800000000000000
+      internalID: 4667353673632753232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_8
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1894
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cd23dbdedc49b70800000000000000
+      internalID: 8904968784183483466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1773
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161b2946439da2b40800000000000000
+      internalID: 5416380320915304801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_10
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1772
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd905701ca754020800000000000000
+      internalID: 2325399752076729850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1772
+        width: 81
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2cf851fa5f6bd60800000000000000
+      internalID: 7905776328225309433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_12
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1773
+        width: 85
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f2377c487abfd90800000000000000
+      internalID: -7062867401876754636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_13
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1773
+        width: 87
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dde7b97c039c3c0800000000000000
+      internalID: -4338883132129354394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_14
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1773
+        width: 85
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9497aed094a6d5c20800000000000000
+      internalID: 3196828172501547337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_15
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1773
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea864c0beade098b0800000000000000
+      internalID: -5147353039538722642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_16
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1860
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ddda888f7eb8030800000000000000
+      internalID: 3498144590214323494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1613
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d6483aed8df5630800000000000000
+      internalID: 3918088651573325060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1613
+        width: 74
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52388d68c085b7b0800000000000000
+      internalID: -5209115795664653732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_19
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1613
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedc2552800512a40800000000000000
+      internalID: 5341638628954263019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_20
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1613
+        width: 71
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1500f6766db552d0800000000000000
+      internalID: -3290515704944524001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_21
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1613
+        width: 69
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1efbfbb2bfa76ed0800000000000000
+      internalID: -2420773092495458789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_22
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1613
+        width: 71
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd22123557332260800000000000000
+      internalID: 7071556678953610696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_23
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1613
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1d1aa89e5aeec90800000000000000
+      internalID: -7138585936863833615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_24
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1614
+        width: 74
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c366300e4ca88d300800000000000000
+      internalID: 277123955259827772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_25
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1606
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d17fcc2bc566360800000000000000
+      internalID: 7162514180392033624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_26
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1578
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6724a56b3126cc020800000000000000
+      internalID: 2363371741265937014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1457
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7028c785a60227220800000000000000
+      internalID: 2482081985757741575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_28
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1457
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2d6a6725e1938e0800000000000000
+      internalID: -1713304843710967128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_29
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1455
+        width: 74
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad5a9088f4224f80800000000000000
+      internalID: -8123890128094863968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_30
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1455
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede4f756f773969a0800000000000000
+      internalID: -6239394788441895202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_31
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1459
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ddd6b2153d57b00800000000000000
+      internalID: 825798452266786089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_32
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1458
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8735ed6b3800aec0800000000000000
+      internalID: -3557834654282860660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_33
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1463
+        width: 73
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b07bdad000ca1a0800000000000000
+      internalID: -6797057678859891855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_34
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1462
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e5fe443523cdb40800000000000000
+      internalID: 5466299380941151754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_35
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1544
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ae6f1064c767260800000000000000
+      internalID: 7094994903091309120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1295
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fb8e668b8502d30800000000000000
+      internalID: 4404617984592101231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_37
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1296
+        width: 68
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dc0280c9e7bf7e0800000000000000
+      internalID: -1730650423177458361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_38
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1288
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7197a52e2de8400800000000000000
+      internalID: 328431692466952140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_39
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1287
+        width: 75
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ca61a2eea16b7e0800000000000000
+      internalID: -1750181794976191382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_40
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1291
+        width: 113
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1038e0cb1baf43650800000000000000
+      internalID: 6211865427321979649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_41
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1289
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fabeb80d5db8720800000000000000
+      internalID: 2849606280919363425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_42
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1265
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760e8c06ee6dd8a50800000000000000
+      internalID: 6525107754444054631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_43
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1139
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a128b406c1c849660800000000000000
+      internalID: 7391686941924360730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_44
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1139
+        width: 78
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b525a55e919f54c0800000000000000
+      internalID: -4296555410260417097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_45
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1139
+        width: 68
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d7776cf59296fa0800000000000000
+      internalID: -5807064753189192345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_46
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1139
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac204df858a4368a0800000000000000
+      internalID: -6313120315139161398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_47
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1140
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a872eb99b6a9f70800000000000000
+      internalID: 9194779897294719561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_48
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1139
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3978189c8e9bea4b0800000000000000
+      internalID: -5427196091470608493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_49
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1240
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75748bcd1ef7dd850800000000000000
+      internalID: 6403414853238146903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_50
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1204
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0570afe111984ba0800000000000000
+      internalID: -6104469788679965426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 976
+        width: 87
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae14038b1f44dc90800000000000000
+      internalID: -7145999729149337941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 976
+        width: 88
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5236b6b6aedabba0800000000000000
+      internalID: -6072296339944361378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 988
+        width: 141
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1b0baff386599d0800000000000000
+      internalID: -2768191771951189547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_54
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 980
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92837a75098493440800000000000000
+      internalID: 4916040253034674217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_55
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 980
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b80352631cf4ee00800000000000000
+      internalID: 1073259771405207731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_56
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 991
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fb581a6b84ca1b0800000000000000
+      internalID: -5644056283770929388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_57
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1025
+        width: 69
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb55edb26a56ca10800000000000000
+      internalID: 1929328870514056174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_58
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 818
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d5c2fc3ab5205d0800000000000000
+      internalID: -3097812834563891829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_59
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 820
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94985c522c86b7010800000000000000
+      internalID: 1187658109808904521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_60
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 821
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d110cfbc08f24e0800000000000000
+      internalID: -2004241695561933449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_61
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 813
+        width: 109
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd397838719c44840800000000000000
+      internalID: 5207508171975267292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_62
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 812
+        width: 106
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9cd395e20a1c800800000000000000
+      internalID: 630961543734741448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 666
+        width: 79
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbad5ee008c71b220800000000000000
+      internalID: 2499916157614938812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_64
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 667
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a708c65d4ba97580800000000000000
+      internalID: -8828837245826365532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_65
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 668
+        width: 76
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43797e1aa95beecd0800000000000000
+      internalID: -2526882665162369228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_66
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 673
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cc867d2eb09a5d0800000000000000
+      internalID: -3050894203662316400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_67
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 673
+        width: 127
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ec9af1b82859980800000000000000
+      internalID: -8532770384940249514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_68
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 517
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4754e1ccf2390b4d0800000000000000
+      internalID: -3120832708270471820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_69
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 517
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ed7cc97b828dbd0800000000000000
+      internalID: -2605287615359361414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_70
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 516
+        width: 72
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238c50bf05a609ef0800000000000000
+      internalID: -103465895388133326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_71
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 517
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790b8f0e0c97bf960800000000000000
+      internalID: 7636831462451884183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_72
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 516
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8646df663581ce760800000000000000
+      internalID: 7488387026899526760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_73
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 517
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ee5fa6a176e3230800000000000000
+      internalID: 3620444513613770276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_74
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 517
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46754d4e1f4341710800000000000000
+      internalID: 1663012375937439588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 363
+        width: 78
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b3bbcaaa5704a10800000000000000
+      internalID: 1891641219398450060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_76
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 362
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45b2e701abe59af0800000000000000
+      internalID: -390146715843119797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_77
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 362
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea53f149eb4375a50800000000000000
+      internalID: 6509729779520845230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_78
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 363
+        width: 83
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0703e65adff0679a0800000000000000
+      internalID: -6235779051971268496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_79
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 363
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba8e3fb1bca8ab50800000000000000
+      internalID: 6604718732956568241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_80
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 364
+        width: 85
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d940c8f4190cdf0800000000000000
+      internalID: -161969815747781320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_81
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 363
+        width: 80
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72eb6e8365e6d8f20800000000000000
+      internalID: 3426516208099704359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tikbalang_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1177
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224328ac6dced0fe0800000000000000
+      internalID: -1221059516682849246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

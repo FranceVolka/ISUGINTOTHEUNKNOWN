@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a5f475a5e5c8784eac7ea5db406c454, type: 3}
+  m_Name: Bangungot
+  m_EditorClassIdentifier: 
+  name: Bangungot
+  description: This hag-like creature sits on the victim's face or chest so as to
+    immobilize and suffocate him. When this occurs, the victim usually experiences
+    paralysis.
+  weakness: ensuring the room temperature is kept low, sleep hygiene
+  attack: 20
+  health: 150
+  monsterImage: {fileID: 5001338451029161152, guid: 6c73ed405758a4747a47eb2aa7d00fa5,
+    type: 3}
+  monsterAttack: {fileID: -3126900281494165164, guid: 6c73ed405758a4747a47eb2aa7d00fa5,
+    type: 3}
+  monsterDead: {fileID: 4715892325669142787, guid: 6c73ed405758a4747a47eb2aa7d00fa5,
+    type: 3}
